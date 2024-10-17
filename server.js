@@ -7,7 +7,7 @@ const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
 const channels = [
     'https://t.me/s/NPROXY',
-    'https://t.me/s/tsProxy',
+    'https://t.me/s/proxy_mti',
     'https://t.me/s/darkproxy'
 ];
 
@@ -84,9 +84,11 @@ const updateGitRepo = async () => {
                     secret: proxy.secret,
                     location: location
                 });
-
-                proxyTextList.push(`server: ${proxy.server}\nport: ${proxy.port}\nsecret: ${proxy.secret}\n`);
             }
+
+            proxyTextList.push(`https://t.me/proxy?server=${proxy.server}&port=${proxy.port}&secret=${proxy.secret}`);
+            
+            await delay(1500);
         }
 
         const filePathJSON = './proxy-list.json';

@@ -3,6 +3,8 @@ const cheerio = require("cheerio");
 const fs = require("fs");
 const { execSync } = require("child_process");
 
+const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+
 const getProxies = async () => {
     try {
         var { data: requestTelegramChannle } = await axios('https://t.me/s/NPROXY');
@@ -54,14 +56,18 @@ const updateGitRepo = async () => {
 
         for (const proxy of proxies) {
             const location = await getProxyLocation(proxy.server);
-            enrichedProxies.push({
-                server: proxy.server,
-                port: proxy.port,
-                secret: proxy.secret,
-                location: location || "Location not found"
-            });
+            if (location) {
+                enrichedProxies.push({
+                    server: proxy.server,
+                    port: proxy.port,
+                    secret: proxy.secret,
+                    location: location
+                });
 
-            proxyTextList.push(`server: ${proxy.server}\nport: ${proxy.port}\nsecret: ${proxy.secret}\n`);
+                proxyTextList.push(`server: ${proxy.server}\nport: ${proxy.port}\nsecret: ${proxy.secret}\n`);
+            }
+
+            await delay(1500);
         }
 
         const filePathJSON = './proxy-list.json';

@@ -5,14 +5,20 @@ const { execSync } = require("child_process");
 
 const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
-const getProxies = async () => {
-    try {
-        var { data: requestTelegramChannle } = await axios('https://t.me/s/NPROXY');
-        var $ = cheerio.load(requestTelegramChannle);
-        var mainElement = $('body > main > div > section > div:last-child').html();
-        var tempElement = $('<div>').html(mainElement);
+const channels = [
+    'https://t.me/s/NPROXY',
+    'https://t.me/s/tsProxy',
+    'https://t.me/s/darkproxy'
+];
 
-        var proxyList = [];
+const getProxiesFromChannel = async (channelUrl) => {
+    try {
+        const { data: requestTelegramChannel } = await axios(channelUrl);
+        const $ = cheerio.load(requestTelegramChannel);
+        const mainElement = $('body > main > div > section > div:last-child').html();
+        const tempElement = $('<div>').html(mainElement);
+
+        const proxyList = [];
         tempElement.find('a[rel="noopener"]').each((i, el) => {
             let href = $(el).attr('href');
             
@@ -33,7 +39,8 @@ const getProxies = async () => {
 
         return proxyList;
     } catch (error) {
-        console.error(error);
+        console.error(`Error fetching proxies from channel ${channelUrl}:`, error);
+        return [];
     }
 };
 
@@ -55,13 +62,20 @@ const getProxyLocation = async (ip) => {
 };
 
 const updateGitRepo = async () => {
-    const proxies = await getProxies();
+    let allProxies = [];
 
-    if (proxies && proxies.length > 0) {
+    for (const channel of channels) {
+        console.log(`Fetching proxies from ${channel}...`);
+        const proxiesFromChannel = await getProxiesFromChannel(channel);
+        allProxies = allProxies.concat(proxiesFromChannel);
+        await delay(1500);
+    }
+
+    if (allProxies.length > 0) {
         const enrichedProxies = [];
         const proxyTextList = [];
 
-        for (const proxy of proxies) {
+        for (const proxy of allProxies) {
             const location = await getProxyLocation(proxy.server);
             if (location) {
                 enrichedProxies.push({
@@ -73,8 +87,6 @@ const updateGitRepo = async () => {
 
                 proxyTextList.push(`server: ${proxy.server}\nport: ${proxy.port}\nsecret: ${proxy.secret}\n`);
             }
-
-            await delay(1500);
         }
 
         const filePathJSON = './proxy-list.json';
@@ -85,7 +97,7 @@ const updateGitRepo = async () => {
 
         execSync('git add .');
         execSync(`git commit -m "Auto update proxy list on ${new Date().toISOString()}"`);
-        execSync('git push origin main');
+        execSync('git push -f origin main');
     } else {
         console.log("No proxies found to update.");
     }

@@ -94,6 +94,7 @@ const updateGitRepo = async () => {
         const filePathJSON = './proxy-list.json';
         fs.writeFileSync(filePathJSON, JSON.stringify(enrichedProxies, null, 2), 'utf-8');
 
+    	proxyTextList.push(`Auto update proxy list on ${new Date().toISOString()}\n`)
         const filePathText = './proxy-list.txt';
         fs.writeFileSync(filePathText, proxyTextList.join('\n'), 'utf-8');
 

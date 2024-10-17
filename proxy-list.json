@@ -1,8 +1,8 @@
 [
   {
     "server": "91.142.78.129",
-    "port": null,
-    "secret": null,
+    "port": "443",
+    "secret": "7gAA8A8Pd1VV____9QBuLmktLS0tLS1pbi5hcHBjZW50ZXIubXMtLS0tLS0%3D",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -14,8 +14,8 @@
   },
   {
     "server": "ma.ikco.shop",
-    "port": null,
-    "secret": null,
+    "port": "443",
+    "secret": "7gAA8A8Pd1VV____9QBuLmktLS0tLS1pbi5hcHBjZW50ZXIubXMtLS0tLS0%3D",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -27,8 +27,8 @@
   },
   {
     "server": "185.173.38.42",
-    "port": null,
-    "secret": null,
+    "port": "443",
+    "secret": "7gAA8A8Pd__1VV______9QB2LmMtLS0%3D",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -40,8 +40,8 @@
   },
   {
     "server": "88.218.62.142",
-    "port": null,
-    "secret": null,
+    "port": "391000",
+    "secret": "FgMBAgABAAH8AwOG4kw63Q",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -53,8 +53,8 @@
   },
   {
     "server": "195.2.78.86",
-    "port": null,
-    "secret": null,
+    "port": "97000",
+    "secret": "FgMBAgABAAH8AwOG4kw63Q",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -66,8 +66,8 @@
   },
   {
     "server": "91.142.75.219",
-    "port": null,
-    "secret": null,
+    "port": "97000",
+    "secret": "FgMBAgABAAH8AwOG4kw63Q",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -79,8 +79,8 @@
   },
   {
     "server": "91.142.79.168",
-    "port": null,
-    "secret": null,
+    "port": "443",
+    "secret": "7gAA8A8Pd__1VV______9QB2LmMtLS0%3D",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -92,8 +92,8 @@
   },
   {
     "server": "77.232.43.237",
-    "port": null,
-    "secret": null,
+    "port": "443",
+    "secret": "7gAA8A8Pd__1VV______9QB2LmMtLS0%3D",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -105,8 +105,8 @@
   },
   {
     "server": "185.244.180.225",
-    "port": null,
-    "secret": null,
+    "port": "3598",
+    "secret": "7gAA8A8Pd1VV____9QBuLmktLS0tLS1pbi5hcHBjZW50ZXIubXMtLS0tLS0%3D",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -118,8 +118,8 @@
   },
   {
     "server": "91.142.78.86",
-    "port": null,
-    "secret": null,
+    "port": "443",
+    "secret": "7gAA8A8Pd__1VV______9QB2LmMtLS0%3D",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -131,8 +131,8 @@
   },
   {
     "server": "77.232.37.190",
-    "port": null,
-    "secret": null,
+    "port": "443",
+    "secret": "7gAA8A8Pd__1VV______9QB2LmMtLS0%3D",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -144,8 +144,8 @@
   },
   {
     "server": "77.232.40.139",
-    "port": null,
-    "secret": null,
+    "port": "443",
+    "secret": "7gAA8A8Pd1VV____9QBuLmktLS0tLS1pbi5hcHBjZW50ZXIubXMtLS0tLS0%3D",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -157,8 +157,8 @@
   },
   {
     "server": "91.142.79.114",
-    "port": null,
-    "secret": null,
+    "port": "443",
+    "secret": "7gAA8A8Pd__1VV______9QB2LmMtLS0%3D",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -170,8 +170,8 @@
   },
   {
     "server": "185.244.182.169",
-    "port": null,
-    "secret": null,
+    "port": "443",
+    "secret": "7gAA8A8Pd__1VV______9QB2LmMtLS0%3D",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -183,8 +183,8 @@
   },
   {
     "server": "185.244.183.211",
-    "port": null,
-    "secret": null,
+    "port": "443",
+    "secret": "7gAA8A8Pd1VV____9QBuLmktLS0tLS1pbi5hcHBjZW50ZXIubXMtLS0tLS0%3D",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -196,8 +196,8 @@
   },
   {
     "server": "185.173.37.139",
-    "port": null,
-    "secret": null,
+    "port": "443",
+    "secret": "7gAA8A8Pd__1VV______9QB2LmMtLS0%3D",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -209,8 +209,8 @@
   },
   {
     "server": "77.232.43.198",
-    "port": null,
-    "secret": null,
+    "port": "443",
+    "secret": "7gAAAAAAAAAAAAAAAAAAAABjb2RleC5pcg",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -222,8 +222,8 @@
   },
   {
     "server": "77.232.43.237",
-    "port": null,
-    "secret": null,
+    "port": "443",
+    "secret": "7gAA8A8Pd__1VV______9QB2LmMtLS0%3D",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -235,8 +235,8 @@
   },
   {
     "server": "91.142.77.59",
-    "port": null,
-    "secret": null,
+    "port": "443",
+    "secret": "7gAA8A8Pd1VV____9QBuLmktLS0tLS1pbi5hcHBjZW50ZXIubXMtLS0tLS0%3D",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -248,8 +248,8 @@
   },
   {
     "server": "91.142.78.86",
-    "port": null,
-    "secret": null,
+    "port": "443",
+    "secret": "7gAA8A8Pd__1VV______9QB2LmMtLS0%3D",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -261,8 +261,8 @@
   },
   {
     "server": "77.232.38.150",
-    "port": null,
-    "secret": null,
+    "port": "443",
+    "secret": "7gAAAAAAAAAAAAAAAAAAAABjb2RleC5pcg",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -274,8 +274,8 @@
   },
   {
     "server": "OS.jabama.shop",
-    "port": null,
-    "secret": null,
+    "port": "443",
+    "secret": "7gAA8A8Pd1VV____9QBuLmktLS0tLS1pbi5hcHBjZW50ZXIubXMtLS0tLS0%3D",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -287,8 +287,8 @@
   },
   {
     "server": "www.starbestir.com",
-    "port": null,
-    "secret": null,
+    "port": "443",
+    "secret": "7gAA8A8Pd1VV____9QBuLmktLS0tLS1pbi5hcHBjZW50ZXIubXMtLS0tLS0%3D",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -300,8 +300,8 @@
   },
   {
     "server": "185.244.181.80",
-    "port": null,
-    "secret": null,
+    "port": "443",
+    "secret": "7gAA8A8Pd1VV____9QBuLmktLS0tLS1pbi5hcHBjZW50ZXIubXMtLS0tLS0%3D",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -313,8 +313,8 @@
   },
   {
     "server": "77.232.36.251",
-    "port": null,
-    "secret": null,
+    "port": "443",
+    "secret": "7gAA8A8Pd__1VV______9QBiLmItLS0%3D",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -326,8 +326,8 @@
   },
   {
     "server": "77.232.41.56",
-    "port": null,
-    "secret": null,
+    "port": "443",
+    "secret": "7gAA8A8Pd__1VV______9QBiLmItLS0%3D",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -339,8 +339,8 @@
   },
   {
     "server": "77.232.40.46",
-    "port": null,
-    "secret": null,
+    "port": "443",
+    "secret": "7gAA8A8Pd__1VV______9QB2LmMtLS0%3D",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -352,8 +352,8 @@
   },
   {
     "server": "91.142.77.172",
-    "port": null,
-    "secret": null,
+    "port": "443",
+    "secret": "7gAA8A8Pd__1VV______9QB2LmMtLS0%3D",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -365,8 +365,8 @@
   },
   {
     "server": "185.173.36.88",
-    "port": null,
-    "secret": null,
+    "port": "443",
+    "secret": "7gAA8A8Pd__1VV______9QB2LmMtLS0%3D",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -378,8 +378,8 @@
   },
   {
     "server": "185.244.182.152",
-    "port": null,
-    "secret": null,
+    "port": "443",
+    "secret": "7gAA8A8Pd__1VV______9QB2LmMtLS0%3D",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -391,8 +391,8 @@
   },
   {
     "server": "77.232.42.199",
-    "port": null,
-    "secret": null,
+    "port": "443",
+    "secret": "7gAA8A8Pd__1VV______9QB2LmMtLS0%3D",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -404,8 +404,8 @@
   },
   {
     "server": "91.142.79.101",
-    "port": null,
-    "secret": null,
+    "port": "443",
+    "secret": "7gAA8A8Pd__1VV______9QBiLmItLS0%3D",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -417,8 +417,8 @@
   },
   {
     "server": "185.173.37.184",
-    "port": null,
-    "secret": null,
+    "port": "443",
+    "secret": "7gAA8A8Pd__1VV______9QBiLmItLS0%3D",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -430,8 +430,8 @@
   },
   {
     "server": "77.232.38.188",
-    "port": null,
-    "secret": null,
+    "port": "443",
+    "secret": "7gAA8A8Pd1VV____9QBuLmktLS0tLS1pbi5hcHBjZW50ZXIubXMtLS0tLS0%3D",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -443,8 +443,8 @@
   },
   {
     "server": "185.173.36.99",
-    "port": null,
-    "secret": null,
+    "port": "44443",
+    "secret": "eeRighJJvXrFGRMCIMJdCQ",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -456,8 +456,8 @@
   },
   {
     "server": "77.232.36.63",
-    "port": null,
-    "secret": null,
+    "port": "44443",
+    "secret": "eeRighJJvXrFGRMCIMJdCQ",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -469,8 +469,8 @@
   },
   {
     "server": "185.173.38.132",
-    "port": null,
-    "secret": null,
+    "port": "44443",
+    "secret": "eeRighJJvXrFGRMCIMJdCQ",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -482,8 +482,8 @@
   },
   {
     "server": "77.232.36.54",
-    "port": null,
-    "secret": null,
+    "port": "44443",
+    "secret": "eeRighJJvXrFGRMCIMJdCQ",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -495,8 +495,8 @@
   },
   {
     "server": "91.142.78.229",
-    "port": null,
-    "secret": null,
+    "port": "44443",
+    "secret": "eeRighJJvXrFGRMCIMJdCQ",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -508,8 +508,8 @@
   },
   {
     "server": "91.142.78.249",
-    "port": null,
-    "secret": null,
+    "port": "44443",
+    "secret": "eeRighJJvXrFGRMCIMJdCQ",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -521,8 +521,8 @@
   },
   {
     "server": "62.113.118.175",
-    "port": null,
-    "secret": null,
+    "port": "44443",
+    "secret": "-1-1-1-1-1-1-1-1-1___w",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -534,8 +534,8 @@
   },
   {
     "server": "89.110.89.9",
-    "port": null,
-    "secret": null,
+    "port": "4443",
+    "secret": "79ea54d21249bd7ac519CQ",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -547,8 +547,8 @@
   },
   {
     "server": "195.2.76.22",
-    "port": null,
-    "secret": null,
+    "port": "4443",
+    "secret": "79ea54d21249bd7ac519CQ",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -560,8 +560,8 @@
   },
   {
     "server": "94.103.90.184",
-    "port": null,
-    "secret": null,
+    "port": "44443",
+    "secret": "79ea54d21249bd7ac519CQ",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -573,8 +573,8 @@
   },
   {
     "server": "89.110.91.75",
-    "port": null,
-    "secret": null,
+    "port": "44443",
+    "secret": "79ea54d21249bd7ac519CQ",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -586,8 +586,8 @@
   },
   {
     "server": "95.142.45.78",
-    "port": null,
-    "secret": null,
+    "port": "44443",
+    "secret": "79ea54d21249bd7ac519CQ",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -599,8 +599,8 @@
   },
   {
     "server": "94.103.90.109",
-    "port": null,
-    "secret": null,
+    "port": "4443",
+    "secret": "79ea54d21249bd7ac519CQ",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -612,8 +612,8 @@
   },
   {
     "server": "89.110.90.97",
-    "port": null,
-    "secret": null,
+    "port": "44443",
+    "secret": "7777772e6e69632e69727w",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -625,8 +625,8 @@
   },
   {
     "server": "195.2.79.210",
-    "port": null,
-    "secret": null,
+    "port": "44443",
+    "secret": "7gAAAAAAAAAAAAAAAAAAAA",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -638,8 +638,8 @@
   },
   {
     "server": "195.2.71.3",
-    "port": null,
-    "secret": null,
+    "port": "44443",
+    "secret": "gggggggggggggggggggggg",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -651,8 +651,8 @@
   },
   {
     "server": "94.103.91.97",
-    "port": null,
-    "secret": null,
+    "port": "44443",
+    "secret": "eeRighJJvXrFGRMCIMJdCQ",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -664,8 +664,8 @@
   },
   {
     "server": "62.113.119.168",
-    "port": null,
-    "secret": null,
+    "port": "44443",
+    "secret": "FgMBAgABAAH8AwOG4kw63Q",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -677,8 +677,8 @@
   },
   {
     "server": "178.20.40.166",
-    "port": null,
-    "secret": null,
+    "port": "44443",
+    "secret": "eeRighJJvXrFGRMCIMJdCQ",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -690,8 +690,8 @@
   },
   {
     "server": "94.103.85.111",
-    "port": null,
-    "secret": null,
+    "port": "44443",
+    "secret": "eeRighJJvXrFGRMCIMJdCQ",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -703,8 +703,8 @@
   },
   {
     "server": "185.173.36.99",
-    "port": null,
-    "secret": null,
+    "port": "44443",
+    "secret": "eeRighJJvXrFGRMCIMJdCQ",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -716,8 +716,8 @@
   },
   {
     "server": "77.232.42.6",
-    "port": null,
-    "secret": null,
+    "port": "3895",
+    "secret": "7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -729,8 +729,8 @@
   },
   {
     "server": "77.232.40.86",
-    "port": null,
-    "secret": null,
+    "port": "3895",
+    "secret": "7gAAAAAAAAAAAAAAAAAAAABjb2RleC5pcg",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -742,8 +742,8 @@
   },
   {
     "server": "91.142.79.92",
-    "port": null,
-    "secret": null,
+    "port": "3895",
+    "secret": "7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -755,8 +755,8 @@
   },
   {
     "server": "77.232.36.136",
-    "port": null,
-    "secret": null,
+    "port": "3895",
+    "secret": "7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -768,8 +768,8 @@
   },
   {
     "server": "77.232.43.166",
-    "port": null,
-    "secret": null,
+    "port": "3895",
+    "secret": "7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v",
     "location": {
       "country": "Russia",
       "region": "Moscow",

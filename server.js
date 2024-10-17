@@ -14,13 +14,20 @@ const getProxies = async () => {
 
         var proxyList = [];
         tempElement.find('a[rel="noopener"]').each((i, el) => {
-            const href = $(el).attr('href');
+            let href = $(el).attr('href');
+            
+            href = href.replace(/&amp;/g, '&');
+            
             if (href.includes('https://t.me/proxy?server=')) {
-                const url = new URL(href);
-                const server = url.searchParams.get('server');
-                const port = url.searchParams.get('port');
-                const secret = url.searchParams.get('secret');
-                proxyList.push({ server, port, secret });
+                const regex = /server=([^&]+)&port=([^&]+)&secret=([^&]+)/;
+                const match = href.match(regex);
+
+                if (match) {
+                    const server = match[1];
+                    const port = match[2];
+                    const secret = match[3];
+                    proxyList.push({ server, port, secret });
+                }
             }
         });
 

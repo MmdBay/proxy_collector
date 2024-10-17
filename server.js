@@ -39,7 +39,7 @@ const getProxiesFromChannel = async (channelUrl) => {
 
         return proxyList;
     } catch (error) {
-        console.error(`Error fetching proxies from channel ${channelUrl}:`, error);
+        console.error(`Error fetching proxies from channel ${channelUrl} :`, error);
         return [];
     }
 };

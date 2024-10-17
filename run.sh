@@ -10,3 +10,4 @@ echo "Running pre-execution tasks..."
 node /root/proxy/server.js
 
 nvm use 14.20.0
+pm2 stop run

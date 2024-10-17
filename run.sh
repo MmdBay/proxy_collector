@@ -7,6 +7,6 @@ nvm use 20.5.0
 
 echo "Running pre-execution tasks..."
 
-node server.js
+node /root/proxy/server.js
 
 nvm use 14.20.0

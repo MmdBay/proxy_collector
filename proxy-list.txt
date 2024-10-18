@@ -25,6 +25,8 @@ https://t.me/proxy?server=185.244.182.152&port=443&secret=7gAA8A8Pd__1VV______9Q
 https://t.me/proxy?server=77.232.42.199&port=443&secret=7gAA8A8Pd__1VV______9QB2LmMtLS0%3D
 https://t.me/proxy?server=OS.jabama.shop&port=443&secret=7gAA8A8Pd1VV____9QBuLmktLS0tLS1pbi5hcHBjZW50ZXIubXMtLS0tLS0%3D
 https://t.me/proxy?server=www.starbestir.com&port=443&secret=7gAA8A8Pd1VV____9QBuLmktLS0tLS1pbi5hcHBjZW50ZXIubXMtLS0tLS0%3D
+https://t.me/proxy?server=irmobile-p.ir&port=245&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29t
+https://t.me/proxy?server=www.irmobile-f.ir&port=245&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29t
 https://t.me/proxy?server=185.173.36.99&port=44443&secret=eeRighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=77.232.36.63&port=44443&secret=eeRighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=185.173.38.132&port=44443&secret=eeRighJJvXrFGRMCIMJdCQ
@@ -81,4 +83,4 @@ https://t.me/proxy?server=176.65.128.133&port=155&secret=DDBighLLvXrFGRMCBVJdFQR
 https://t.me/proxy?server=203.25.108.89&port=155&secret=7gAA8A8Pd1VV____9QBuLmlhLS0tLS0tLS0%3D
 https://t.me/proxy?server=103.161.34.25&port=155&secret=een9ZIOVcuxEjkyt7TiWmgtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=103.161.35.23&port=155&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-Auto update proxy list on 2024-10-18T03:02:12.827Z
+Auto update proxy list on 2024-10-18T04:02:30.021Z

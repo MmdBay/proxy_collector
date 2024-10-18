@@ -715,22 +715,22 @@
     }
   },
   {
-    "server": "176.65.128.132",
+    "server": "185.234.65.204",
     "port": "155",
     "secret": "een9ZIOVcuxEjkyt7TiWmgtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
     "location": {
       "country": "The Netherlands",
-      "region": "North Holland",
-      "city": "Amsterdam",
-      "isp": "PIO-Hosting GmbH",
-      "lat": 52.3676,
-      "lon": 4.90414
+      "region": "Drenthe",
+      "city": "Meppel",
+      "isp": "Stark Industries Solutions LTD",
+      "lat": 52.6958,
+      "lon": 6.1956
     }
   },
   {
-    "server": "82.153.35.103",
-    "port": "85",
-    "secret": "eeRighJJvXrFGRMCIMJdCQ",
+    "server": "82.153.35.186",
+    "port": "5",
+    "secret": "7gAA8A8Pd__1VV______9QBiLmJvLS0tLQ%3D%3D",
     "location": {
       "country": "The Netherlands",
       "region": "North Holland",
@@ -741,7 +741,7 @@
     }
   },
   {
-    "server": "185.222.28.225",
+    "server": "185.222.28.191",
     "port": "23",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "location": {
@@ -751,19 +751,6 @@
       "isp": "PIO-Hosting GmbH",
       "lat": 48.7758,
       "lon": 9.18293
-    }
-  },
-  {
-    "server": "103.161.34.25",
-    "port": "155",
-    "secret": "een9ZIOVcuxEjkyt7TiWmgtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "location": {
-      "country": "Germany",
-      "region": "Hesse",
-      "city": "Frankfurt am Main",
-      "isp": "GSJZ(CHINA)TECHNOLOGY CO",
-      "lat": 50.1109,
-      "lon": 8.68213
     }
   },
   {

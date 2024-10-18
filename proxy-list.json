@@ -767,32 +767,6 @@
     }
   },
   {
-    "server": "5.180.30.98",
-    "port": "155",
-    "secret": "7gAA8A8Pd__1VV______9QB2LmMtLS0%3D",
-    "location": {
-      "country": "United States",
-      "region": "Florida",
-      "city": "Miami",
-      "isp": "Stark Industries Solutions LTD",
-      "lat": 25.7689,
-      "lon": -80.1946
-    }
-  },
-  {
-    "server": "45.140.167.248",
-    "port": "155",
-    "secret": "7gAA8A8Pd__1VV______9QB2LmMtLS0%3D",
-    "location": {
-      "country": "United Kingdom",
-      "region": "England",
-      "city": "Coventry",
-      "isp": "Stark Industries Solutions LTD",
-      "lat": 52.4064,
-      "lon": -1.5082
-    }
-  },
-  {
     "server": "85.206.161.251",
     "port": "155",
     "secret": "5mB7kIicxgcZ0hcMsoUZYgZQUgYBou-7tki_CVuDv4lg",

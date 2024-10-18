@@ -104,22 +104,22 @@
     }
   },
   {
-    "server": "91.142.79.101",
+    "server": "77.232.38.188",
     "port": "443",
-    "secret": "7gAA8A8Pd__1VV______9QBiLmItLS0%3D",
+    "secret": "7gAA8A8Pd1VV____9QBuLmktLS0tLS1pbi5hcHBjZW50ZXIubXMtLS0tLS0%3D",
     "location": {
       "country": "Russia",
       "region": "Moscow",
       "city": "Moscow",
       "isp": "Cloud assets LLC",
-      "lat": 55.7303,
-      "lon": 37.7707
+      "lat": 55.7386,
+      "lon": 37.7447
     }
   },
   {
-    "server": "77.232.38.188",
-    "port": "443",
-    "secret": "7gAA8A8Pd1VV____9QBuLmktLS0tLS1pbi5hcHBjZW50ZXIubXMtLS0tLS0%3D",
+    "server": "185.173.37.99",
+    "port": "3598",
+    "secret": "7gAA8A8Pd__1VV______9QB2LmMtLS0%3D",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -140,19 +140,6 @@
       "isp": "Cloud assets LLC",
       "lat": 55.7386,
       "lon": 37.7447
-    }
-  },
-  {
-    "server": "185.244.182.169",
-    "port": "443",
-    "secret": "7gAA8A8Pd__1VV______9QB2LmMtLS0%3D",
-    "location": {
-      "country": "Russia",
-      "region": "Moscow",
-      "city": "Moscow",
-      "isp": "Cloud assets LLC",
-      "lat": 55.7303,
-      "lon": 37.7707
     }
   },
   {
@@ -195,6 +182,19 @@
     }
   },
   {
+    "server": "91.142.77.31",
+    "port": "3598",
+    "secret": "7gAA8A8Pd__1VV______9QB2LmMtLS0%3D",
+    "location": {
+      "country": "Russia",
+      "region": "Moscow",
+      "city": "Moscow",
+      "isp": "Cloud assets LLC",
+      "lat": 55.7303,
+      "lon": 37.7707
+    }
+  },
+  {
     "server": "77.232.43.198",
     "port": "443",
     "secret": "7gAAAAAAAAAAAAAAAAAAAABjb2RleC5pcg",
@@ -221,19 +221,6 @@
     }
   },
   {
-    "server": "91.142.78.86",
-    "port": "443",
-    "secret": "7gAA8A8Pd__1VV______9QB2LmMtLS0%3D",
-    "location": {
-      "country": "Russia",
-      "region": "Moscow",
-      "city": "Moscow",
-      "isp": "Cloud assets LLC",
-      "lat": 55.7303,
-      "lon": 37.7707
-    }
-  },
-  {
     "server": "185.244.181.80",
     "port": "443",
     "secret": "7gAA8A8Pd1VV____9QBuLmktLS0tLS1pbi5hcHBjZW50ZXIubXMtLS0tLS0%3D",
@@ -247,9 +234,9 @@
     }
   },
   {
-    "server": "77.232.41.56",
-    "port": "443",
-    "secret": "7gAA8A8Pd__1VV______9QBiLmItLS0%3D",
+    "server": "77.232.38.242",
+    "port": "3598",
+    "secret": "7gAA8A8Pd__1VV______9QB2LmMtLS0%3D",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -257,6 +244,19 @@
       "isp": "Cloud assets LLC",
       "lat": 55.7386,
       "lon": 37.7447
+    }
+  },
+  {
+    "server": "91.142.78.105",
+    "port": "3598",
+    "secret": "7gAA8A8Pd__1VV______9QB2LmMtLS0%3D",
+    "location": {
+      "country": "Russia",
+      "region": "Moscow",
+      "city": "Moscow",
+      "isp": "Cloud assets LLC",
+      "lat": 55.7303,
+      "lon": 37.7707
     }
   },
   {
@@ -286,45 +286,6 @@
     }
   },
   {
-    "server": "185.173.36.88",
-    "port": "443",
-    "secret": "7gAA8A8Pd__1VV______9QB2LmMtLS0%3D",
-    "location": {
-      "country": "Russia",
-      "region": "Moscow",
-      "city": "Moscow",
-      "isp": "Cloud assets LLC",
-      "lat": 55.7386,
-      "lon": 37.7447
-    }
-  },
-  {
-    "server": "185.244.182.152",
-    "port": "443",
-    "secret": "7gAA8A8Pd__1VV______9QB2LmMtLS0%3D",
-    "location": {
-      "country": "Russia",
-      "region": "Moscow",
-      "city": "Moscow",
-      "isp": "Cloud assets LLC",
-      "lat": 55.7303,
-      "lon": 37.7707
-    }
-  },
-  {
-    "server": "77.232.42.199",
-    "port": "443",
-    "secret": "7gAA8A8Pd__1VV______9QB2LmMtLS0%3D",
-    "location": {
-      "country": "Russia",
-      "region": "Moscow",
-      "city": "Moscow",
-      "isp": "Cloud assets LLC",
-      "lat": 55.7386,
-      "lon": 37.7447
-    }
-  },
-  {
     "server": "OS.jabama.shop",
     "port": "443",
     "secret": "7gAA8A8Pd1VV____9QBuLmktLS0tLS1pbi5hcHBjZW50ZXIubXMtLS0tLS0%3D",
@@ -351,9 +312,9 @@
     }
   },
   {
-    "server": "irmobile-p.ir",
-    "port": "245",
-    "secret": "DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29t",
+    "server": "77.232.40.150",
+    "port": "3598",
+    "secret": "7gAA8A8Pd__1VV______9QB2LmMtLS0%3D",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -361,19 +322,6 @@
       "isp": "Cloud assets LLC",
       "lat": 55.7386,
       "lon": 37.7447
-    }
-  },
-  {
-    "server": "www.irmobile-f.ir",
-    "port": "245",
-    "secret": "DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29t",
-    "location": {
-      "country": "Russia",
-      "region": "Moscow",
-      "city": "Moscow",
-      "isp": "Cloud assets LLC",
-      "lat": 55.7303,
-      "lon": 37.7707
     }
   },
   {

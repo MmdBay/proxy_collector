@@ -325,6 +325,32 @@
     }
   },
   {
+    "server": "a.irmobile-f.ir",
+    "port": "245",
+    "secret": "DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29t",
+    "location": {
+      "country": "Russia",
+      "region": "Moscow",
+      "city": "Moscow",
+      "isp": "Cloud assets LLC",
+      "lat": 55.7386,
+      "lon": 37.7447
+    }
+  },
+  {
+    "server": "www.irmobile-i.ir",
+    "port": "245",
+    "secret": "DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29t",
+    "location": {
+      "country": "Russia",
+      "region": "Moscow",
+      "city": "Moscow",
+      "isp": "Cloud assets LLC",
+      "lat": 55.7386,
+      "lon": 37.7447
+    }
+  },
+  {
     "server": "185.173.36.99",
     "port": "44443",
     "secret": "eeRighJJvXrFGRMCIMJdCQ",

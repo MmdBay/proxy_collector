@@ -676,32 +676,6 @@
     }
   },
   {
-    "server": "5.180.30.98",
-    "port": "155",
-    "secret": "7gAA8A8Pd__1VV______9QB2LmMtLS0%3D",
-    "location": {
-      "country": "United States",
-      "region": "Florida",
-      "city": "Miami",
-      "isp": "Stark Industries Solutions LTD",
-      "lat": 25.7689,
-      "lon": -80.1946
-    }
-  },
-  {
-    "server": "45.140.167.248",
-    "port": "155",
-    "secret": "7gAA8A8Pd__1VV______9QB2LmMtLS0%3D",
-    "location": {
-      "country": "United Kingdom",
-      "region": "England",
-      "city": "Coventry",
-      "isp": "Stark Industries Solutions LTD",
-      "lat": 52.4064,
-      "lon": -1.5082
-    }
-  },
-  {
     "server": "85.206.161.251",
     "port": "155",
     "secret": "5mB7kIicxgcZ0hcMsoUZYgZQUgYBou-7tki_CVuDv4lg",
@@ -1011,19 +985,6 @@
       "isp": "GSJZ(CHINA)TECHNOLOGY CO",
       "lat": 52.3676,
       "lon": 4.90414
-    }
-  },
-  {
-    "server": "95.164.88.247",
-    "port": "443",
-    "secret": "eea243325928d4512f2430e973efb2be5973332e616d617a6f6e6177732e636f6d",
-    "location": {
-      "country": "United Kingdom",
-      "region": "England",
-      "city": "Coventry",
-      "isp": "Stark Industries Solutions LTD",
-      "lat": 52.4128,
-      "lon": -1.50895
     }
   }
 ]

@@ -650,16 +650,16 @@
     }
   },
   {
-    "server": "176.65.128.132",
+    "server": "103.161.34.25",
     "port": "155",
     "secret": "een9ZIOVcuxEjkyt7TiWmgtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
     "location": {
-      "country": "The Netherlands",
-      "region": "North Holland",
-      "city": "Amsterdam",
-      "isp": "PIO-Hosting GmbH",
-      "lat": 52.3676,
-      "lon": 4.90414
+      "country": "Germany",
+      "region": "Hesse",
+      "city": "Frankfurt am Main",
+      "isp": "GSJZ(CHINA)TECHNOLOGY CO",
+      "lat": 50.1109,
+      "lon": 8.68213
     }
   },
   {
@@ -676,29 +676,16 @@
     }
   },
   {
-    "server": "185.222.28.225",
-    "port": "23",
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "server": "77.232.36.54",
+    "port": "44443",
+    "secret": "eeRighJJvXrFGRMCIMJdCQ",
     "location": {
-      "country": "Germany",
-      "region": "Baden-Wurttemberg",
-      "city": "Stuttgart",
-      "isp": "PIO-Hosting GmbH",
-      "lat": 48.7758,
-      "lon": 9.18293
-    }
-  },
-  {
-    "server": "103.161.34.25",
-    "port": "155",
-    "secret": "een9ZIOVcuxEjkyt7TiWmgtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "location": {
-      "country": "Germany",
-      "region": "Hesse",
-      "city": "Frankfurt am Main",
-      "isp": "GSJZ(CHINA)TECHNOLOGY CO",
-      "lat": 50.1109,
-      "lon": 8.68213
+      "country": "Russia",
+      "region": "Moscow",
+      "city": "Moscow",
+      "isp": "Cloud assets LLC",
+      "lat": 55.7386,
+      "lon": 37.7447
     }
   },
   {

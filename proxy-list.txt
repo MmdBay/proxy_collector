@@ -25,7 +25,8 @@ https://t.me/proxy?server=www.starbestir.com&port=443&secret=7gAA8A8Pd1VV____9QB
 https://t.me/proxy?server=77.232.40.18&port=443&secret=7gAA8A8Pd__1VV______9QB2LmNwLS0%3D
 https://t.me/proxy?server=77.232.39.228&port=443&secret=7gAA8A8Pd__1VV______9QB2LmNwLS0%3D
 https://t.me/proxy?server=www.help.server-security.international.&port=443&secret=7gAA8A8Pd1VV____9QBtLmktLS0tLS0tLS0%3D
-https://t.me/proxy?server=digital-a.ir&port=245&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29t
+https://t.me/proxy?server=digital-b.ir&port=245&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29t
+https://t.me/proxy?server=digital-c.ir&port=245&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29t
 https://t.me/proxy?server=185.173.36.99&port=44443&secret=eeRighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=77.232.36.63&port=44443&secret=eeRighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=185.173.38.132&port=44443&secret=eeRighJJvXrFGRMCIMJdCQ
@@ -83,4 +84,4 @@ https://t.me/proxy?server=203.25.108.89&port=155&secret=7gAA8A8Pd1VV____9QBuLmlh
 https://t.me/proxy?server=103.161.34.25&port=155&secret=een9ZIOVcuxEjkyt7TiWmgtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=103.161.35.23&port=155&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=91.228.10.235&port=155&secret=IIIIIIIIIIIlIIIIIIIIIAIIIIIIIIIIIIIIIIIIIIIEeAAAAAAAAAAAAAAAAAAAAWw
-Auto update proxy list on 2024-10-21T06:02:17.861Z
+Auto update proxy list on 2024-10-21T07:02:29.452Z

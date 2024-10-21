@@ -780,19 +780,6 @@
     }
   },
   {
-    "server": "185.236.234.14",
-    "port": "155",
-    "secret": "een9ZIOVcuxEjkyt7TiWmgtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "location": {
-      "country": "The Netherlands",
-      "region": "Drenthe",
-      "city": "Meppel",
-      "isp": "Stark Industries Solutions LTD",
-      "lat": 52.6958,
-      "lon": 6.1956
-    }
-  },
-  {
     "server": "5.180.30.98",
     "port": "155",
     "secret": "7gAA8A8Pd__1VV______9QB2LmMtLS0%3D",

@@ -1103,18 +1103,5 @@
       "lat": 52.3676,
       "lon": 4.90414
     }
-  },
-  {
-    "server": "91.228.10.235",
-    "port": "155",
-    "secret": "IIIIIIIIIIIlIIIIIIIIIAIIIIIIIIIIIIIIIIIIIIIEeAAAAAAAAAAAAAAAAAAAAWw",
-    "location": {
-      "country": "United Kingdom",
-      "region": "England",
-      "city": "Coventry",
-      "isp": "Stark Industries Solutions LTD",
-      "lat": 52.4064,
-      "lon": -1.5082
-    }
   }
 ]

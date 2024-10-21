@@ -156,16 +156,16 @@
     }
   },
   {
-    "server": "185.244.183.211",
+    "server": "www.help-man.info-film.site",
     "port": "443",
-    "secret": "7gAA8A8Pd1VV____9QBuLmktLS0tLS1pbi5hcHBjZW50ZXIubXMtLS0tLS0%3D",
+    "secret": "7gAA8A8Pd1VV____9QBuLmktLS13d3cuYXBhcmF0LmNvbS0%3D",
     "location": {
       "country": "Russia",
       "region": "Moscow",
       "city": "Moscow",
       "isp": "Cloud assets LLC",
-      "lat": 55.7303,
-      "lon": 37.7707
+      "lat": 55.7386,
+      "lon": 37.7447
     }
   },
   {
@@ -351,9 +351,9 @@
     }
   },
   {
-    "server": "digital-b.ir",
-    "port": "245",
-    "secret": "DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29t",
+    "server": "77.232.43.105",
+    "port": "443",
+    "secret": "7gAAAAAAAAAAAAAAAAAAAABjb2RleC5pcg",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -364,9 +364,35 @@
     }
   },
   {
-    "server": "digital-c.ir",
-    "port": "245",
-    "secret": "DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29t",
+    "server": "185.173.38.49",
+    "port": "443",
+    "secret": "7gAAAAAAAAAAAAAAAAAAAABjb2RleC5pcg",
+    "location": {
+      "country": "Russia",
+      "region": "Moscow",
+      "city": "Moscow",
+      "isp": "Cloud assets LLC",
+      "lat": 55.7386,
+      "lon": 37.7447
+    }
+  },
+  {
+    "server": "77.232.39.203",
+    "port": "443",
+    "secret": "7gAAAAAAAAAAAAAAAAAAAABjb2RleC5pcg",
+    "location": {
+      "country": "Russia",
+      "region": "Moscow",
+      "city": "Moscow",
+      "isp": "Cloud assets LLC",
+      "lat": 55.7386,
+      "lon": 37.7447
+    }
+  },
+  {
+    "server": "77.232.40.183",
+    "port": "443",
+    "secret": "7gAAAAAAAAAAAAAAAAAAAABjb2RleC5pcg",
     "location": {
       "country": "Russia",
       "region": "Moscow",
@@ -712,6 +738,58 @@
       "isp": "Cloud assets LLC",
       "lat": 55.7386,
       "lon": 37.7447
+    }
+  },
+  {
+    "server": "103.161.34.25",
+    "port": "155",
+    "secret": "een9ZIOVcuxEjkyt7TiWmgtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "location": {
+      "country": "Germany",
+      "region": "Hesse",
+      "city": "Frankfurt am Main",
+      "isp": "GSJZ(CHINA)TECHNOLOGY CO",
+      "lat": 50.1109,
+      "lon": 8.68213
+    }
+  },
+  {
+    "server": "82.153.35.90",
+    "port": "21",
+    "secret": "FgMBAgABAAH8AwOG4kw63Q%3D%3D",
+    "location": {
+      "country": "The Netherlands",
+      "region": "North Holland",
+      "city": "Amsterdam",
+      "isp": "PIO-Hosting GmbH",
+      "lat": 52.3676,
+      "lon": 4.90414
+    }
+  },
+  {
+    "server": "77.232.36.54",
+    "port": "44443",
+    "secret": "eeRighJJvXrFGRMCIMJdCQ",
+    "location": {
+      "country": "Russia",
+      "region": "Moscow",
+      "city": "Moscow",
+      "isp": "Cloud assets LLC",
+      "lat": 55.7386,
+      "lon": 37.7447
+    }
+  },
+  {
+    "server": "185.236.234.14",
+    "port": "155",
+    "secret": "een9ZIOVcuxEjkyt7TiWmgtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "location": {
+      "country": "The Netherlands",
+      "region": "Drenthe",
+      "city": "Meppel",
+      "isp": "Stark Industries Solutions LTD",
+      "lat": 52.6958,
+      "lon": 6.1956
     }
   },
   {

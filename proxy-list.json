@@ -403,6 +403,19 @@
     }
   },
   {
+    "server": "185.173.36.99",
+    "port": "44443",
+    "secret": "eeRighJJvXrFGRMCIMJdCQ",
+    "location": {
+      "country": "Russia",
+      "region": "Moscow",
+      "city": "Moscow",
+      "isp": "Cloud assets LLC",
+      "lat": 55.7386,
+      "lon": 37.7447
+    }
+  },
+  {
     "server": "77.232.36.63",
     "port": "44443",
     "secret": "eeRighJJvXrFGRMCIMJdCQ",

@@ -424,8 +424,8 @@
       "region": "Moscow",
       "city": "Moscow",
       "isp": "Cloud assets LLC",
-      "lat": 55.7303,
-      "lon": 37.7707
+      "lat": 55.7386,
+      "lon": 37.7447
     }
   },
   {
@@ -764,6 +764,58 @@
       "isp": "Cloud assets LLC",
       "lat": 55.7386,
       "lon": 37.7447
+    }
+  },
+  {
+    "server": "103.161.34.25",
+    "port": "155",
+    "secret": "een9ZIOVcuxEjkyt7TiWmgtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "location": {
+      "country": "Germany",
+      "region": "Hesse",
+      "city": "Frankfurt am Main",
+      "isp": "GSJZ(CHINA)TECHNOLOGY CO",
+      "lat": 50.1109,
+      "lon": 8.68213
+    }
+  },
+  {
+    "server": "82.153.35.198",
+    "port": "85",
+    "secret": "eeRighJJvXrFGRMCIMJdCQ",
+    "location": {
+      "country": "The Netherlands",
+      "region": "North Holland",
+      "city": "Amsterdam",
+      "isp": "PIO-Hosting GmbH",
+      "lat": 52.3676,
+      "lon": 4.90414
+    }
+  },
+  {
+    "server": "77.232.36.63",
+    "port": "44443",
+    "secret": "eeRighJJvXrFGRMCIMJdCQ",
+    "location": {
+      "country": "Russia",
+      "region": "Moscow",
+      "city": "Moscow",
+      "isp": "Cloud assets LLC",
+      "lat": 55.7386,
+      "lon": 37.7447
+    }
+  },
+  {
+    "server": "203.25.108.89",
+    "port": "155",
+    "secret": "7gAA8A8Pd1VV____9QBuLmlhLS0tLS0tLS0%3D",
+    "location": {
+      "country": "The Netherlands",
+      "region": "North Holland",
+      "city": "Amsterdam",
+      "isp": "Interkvm Host SRL",
+      "lat": 52.3676,
+      "lon": 4.90414
     }
   },
   {

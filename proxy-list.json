@@ -403,32 +403,6 @@
     }
   },
   {
-    "server": "digital-f.ir",
-    "port": "245",
-    "secret": "DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29t",
-    "location": {
-      "country": "Russia",
-      "region": "Moscow",
-      "city": "Moscow",
-      "isp": "Cloud assets LLC",
-      "lat": 55.7303,
-      "lon": 37.7707
-    }
-  },
-  {
-    "server": "www.digital-e.ir",
-    "port": "245",
-    "secret": "DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29t",
-    "location": {
-      "country": "Russia",
-      "region": "Moscow",
-      "city": "Moscow",
-      "isp": "Cloud assets LLC",
-      "lat": 55.7386,
-      "lon": 37.7447
-    }
-  },
-  {
     "server": "185.173.36.99",
     "port": "44443",
     "secret": "eeRighJJvXrFGRMCIMJdCQ",

@@ -29,8 +29,6 @@ https://t.me/proxy?server=77.232.43.105&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABj
 https://t.me/proxy?server=185.173.38.49&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABjb2RleC5pcg
 https://t.me/proxy?server=77.232.39.203&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABjb2RleC5pcg
 https://t.me/proxy?server=77.232.40.183&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABjb2RleC5pcg
-https://t.me/proxy?server=digital-f.ir&port=245&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29t
-https://t.me/proxy?server=www.digital-e.ir&port=245&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29t
 https://t.me/proxy?server=185.173.36.99&port=44443&secret=eeRighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=77.232.36.63&port=44443&secret=eeRighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=185.173.38.132&port=44443&secret=eeRighJJvXrFGRMCIMJdCQ
@@ -85,4 +83,4 @@ https://t.me/proxy?server=176.65.128.133&port=155&secret=DDBighLLvXrFGRMCBVJdFQR
 https://t.me/proxy?server=203.25.108.89&port=155&secret=7gAA8A8Pd1VV____9QBuLmlhLS0tLS0tLS0%3D
 https://t.me/proxy?server=103.161.34.25&port=155&secret=een9ZIOVcuxEjkyt7TiWmgtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=103.161.35.23&port=155&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-Auto update proxy list on 2024-10-24T14:02:21.232Z
+Auto update proxy list on 2024-10-24T15:02:17.451Z

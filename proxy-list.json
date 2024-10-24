@@ -546,19 +546,6 @@
     }
   },
   {
-    "server": "95.142.45.78",
-    "port": "44443",
-    "secret": "79ea54d21249bd7ac519CQ",
-    "location": {
-      "country": "Russia",
-      "region": "Moscow",
-      "city": "Moscow",
-      "isp": "Hosting technology LTD",
-      "lat": 55.7483,
-      "lon": 37.6171
-    }
-  },
-  {
     "server": "94.103.90.109",
     "port": "4443",
     "secret": "79ea54d21249bd7ac519CQ",

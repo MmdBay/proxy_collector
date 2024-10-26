@@ -830,5 +830,31 @@
       "lat": 53.3379,
       "lon": -6.2591
     }
+  },
+  {
+    "server": "65.109.86.124",
+    "port": "155",
+    "secret": "een9ZIOVcuxEjkyt7TiWmgtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "location": {
+      "country": "Finland",
+      "region": "Uusimaa",
+      "city": "Helsinki",
+      "isp": "Hetzner Online GmbH",
+      "lat": 60.1797,
+      "lon": 24.9344
+    }
+  },
+  {
+    "server": "95.216.249.222",
+    "port": "155",
+    "secret": "een9ZIOVcuxEjkyt7TiWmgtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "location": {
+      "country": "Finland",
+      "region": "Uusimaa",
+      "city": "Helsinki",
+      "isp": "Hetzner Online GmbH",
+      "lat": 60.1797,
+      "lon": 24.9344
+    }
   }
 ]

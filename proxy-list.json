@@ -817,5 +817,18 @@
       "lat": 52.3676,
       "lon": 4.90414
     }
+  },
+  {
+    "server": "188.211.233.117",
+    "port": "155",
+    "secret": "5mB7kIicxgcZ0hcMsoUZYgAA",
+    "location": {
+      "country": "Ireland",
+      "region": "Leinster",
+      "city": "Dublin",
+      "isp": "Interkvm Host SRL",
+      "lat": 53.3379,
+      "lon": -6.2591
+    }
   }
 ]

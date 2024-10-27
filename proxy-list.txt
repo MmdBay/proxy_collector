@@ -61,4 +61,4 @@ https://t.me/proxy?server=103.161.34.25&port=155&secret=een9ZIOVcuxEjkyt7TiWmgtY
 https://t.me/proxy?server=82.153.35.198&port=85&secret=eeRighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=77.232.36.63&port=44443&secret=eeRighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=203.25.108.89&port=155&secret=7gAA8A8Pd1VV____9QBuLmlhLS0tLS0tLS0%3D
-Auto update proxy list on 2024-10-27T10:01:49.799Z
+Auto update proxy list on 2024-10-27T11:01:44.472Z

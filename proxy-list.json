@@ -424,8 +424,8 @@
       "region": "Moscow",
       "city": "Moscow",
       "isp": "Cloud assets LLC",
-      "lat": 55.7303,
-      "lon": 37.7707
+      "lat": 55.7386,
+      "lon": 37.7447
     }
   },
   {
@@ -468,7 +468,7 @@
     }
   },
   {
-    "server": "77.232.36.54",
+    "server": "185.173.37.86",
     "port": "44443",
     "secret": "eeRighJJvXrFGRMCIMJdCQ",
     "location": {
@@ -676,22 +676,22 @@
     }
   },
   {
-    "server": "94.103.85.111",
-    "port": "44443",
-    "secret": "eeRighJJvXrFGRMCIMJdCQ",
+    "server": "185.173.36.240",
+    "port": "443",
+    "secret": "EERighJJvXrFGRMCIMJdCQ",
     "location": {
       "country": "Russia",
       "region": "Moscow",
       "city": "Moscow",
-      "isp": "VDSINA",
-      "lat": 55.7483,
-      "lon": 37.6171
+      "isp": "Cloud assets LLC",
+      "lat": 55.7386,
+      "lon": 37.7447
     }
   },
   {
-    "server": "185.173.36.99",
-    "port": "44443",
-    "secret": "eeRighJJvXrFGRMCIMJdCQ",
+    "server": "77.232.40.102",
+    "port": "443",
+    "secret": "EERighJJvXrFGRMCIMJdCQ",
     "location": {
       "country": "Russia",
       "region": "Moscow",

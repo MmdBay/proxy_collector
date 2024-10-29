@@ -806,9 +806,9 @@
     }
   },
   {
-    "server": "95.216.249.222",
+    "server": "65.109.86.124",
     "port": "155",
-    "secret": "een9ZIOVcuxEjkyt7TiWmgtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "location": {
       "country": "Finland",
       "region": "Uusimaa",
@@ -842,6 +842,19 @@
       "isp": "Cloud assets LLC",
       "lat": 55.7386,
       "lon": 37.7447
+    }
+  },
+  {
+    "server": "138.201.31.157",
+    "port": "155",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "location": {
+      "country": "Germany",
+      "region": "Saxony",
+      "city": "Falkenstein",
+      "isp": "Hetzner Online GmbH",
+      "lat": 50.4777,
+      "lon": 12.3649
     }
   },
   {

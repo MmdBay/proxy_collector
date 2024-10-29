@@ -88,4 +88,4 @@ https://t.me/proxy?server=176.65.128.133&port=155&secret=DDBighLLvXrFGRMCBVJdFQR
 https://t.me/proxy?server=203.25.108.89&port=155&secret=7gAA8A8Pd1VV____9QBuLmlhLS0tLS0tLS0%3D
 https://t.me/proxy?server=95.216.249.222&port=155&secret=een9ZIOVcuxEjkyt7TiWmgtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=65.109.86.124&port=155&secret=eeNEgYdJvXrFGRMCIMJdCQ
-Auto update proxy list on 2024-10-29T18:02:40.239Z
+Auto update proxy list on 2024-10-29T19:02:52.423Z

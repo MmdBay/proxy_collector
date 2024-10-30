@@ -68,7 +68,6 @@ const updateGitRepo = async () => {
         console.log(`Fetching proxies from ${channel}...`);
         const proxiesFromChannel = await getProxiesFromChannel(channel);
         allProxies = allProxies.concat(proxiesFromChannel);
-        await delay(1500);
     }
 
     if (allProxies.length > 0) {
@@ -87,7 +86,7 @@ const updateGitRepo = async () => {
             }
 
             proxyTextList.push(`https://t.me/proxy?server=${proxy.server}&port=${proxy.port}&secret=${proxy.secret}`);
-            
+            console.log(`Fetching proxies location ${location}...`);
             await delay(1500);
         }
 
@@ -97,7 +96,7 @@ const updateGitRepo = async () => {
     	proxyTextList.push(`Auto update proxy list on ${new Date().toISOString()}\n`)
         const filePathText = './proxy-list.txt';
         fs.writeFileSync(filePathText, proxyTextList.join('\n'), 'utf-8');
-
+	console.log(proxyTextList)
         execSync('git add .');
         execSync(`git commit -m "Auto update proxy list on ${new Date().toISOString()}"`);
         execSync('git push -f origin main');

@@ -845,16 +845,16 @@
     }
   },
   {
-    "server": "213.239.201.250",
+    "server": "65.109.86.124",
     "port": "155",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "location": {
-      "country": "Germany",
-      "region": "Saxony",
-      "city": "Falkenstein",
+      "country": "Finland",
+      "region": "Uusimaa",
+      "city": "Helsinki",
       "isp": "Hetzner Online GmbH",
-      "lat": 50.4777,
-      "lon": 12.3649
+      "lat": 60.1797,
+      "lon": 24.9344
     }
   },
   {

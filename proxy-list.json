@@ -806,42 +806,16 @@
     }
   },
   {
-    "server": "65.109.86.124",
+    "server": "5.9.69.181",
     "port": "155",
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "secret": "7gAA8A8Pd1VV____9QBuLmktLS0tLS13ZWIuYXBwY2VudGVyLm1zaS0tLS0tLQ",
     "location": {
-      "country": "Finland",
-      "region": "Uusimaa",
-      "city": "Helsinki",
+      "country": "Germany",
+      "region": "Saxony",
+      "city": "Falkenstein",
       "isp": "Hetzner Online GmbH",
-      "lat": 60.1797,
-      "lon": 24.9344
-    }
-  },
-  {
-    "server": "185.173.37.86",
-    "port": "44443",
-    "secret": "eeRighJJvXrFGRMCIMJdCQ",
-    "location": {
-      "country": "Russia",
-      "region": "Moscow",
-      "city": "Moscow",
-      "isp": "Cloud assets LLC",
-      "lat": 55.7386,
-      "lon": 37.7447
-    }
-  },
-  {
-    "server": "82.153.35.198",
-    "port": "85",
-    "secret": "eeRighJJvXrFGRMCIMJdCQ",
-    "location": {
-      "country": "The Netherlands",
-      "region": "North Holland",
-      "city": "Amsterdam",
-      "isp": "PIO-Hosting GmbH",
-      "lat": 52.3676,
-      "lon": 4.90414
+      "lat": 50.4777,
+      "lon": 12.3649
     }
   },
   {
@@ -871,16 +845,16 @@
     }
   },
   {
-    "server": "185.234.65.206",
+    "server": "135.181.18.161",
     "port": "155",
-    "secret": "een9ZIOVcuxEjkyt7TiWmgtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "secret": "FgMBAgABAAH8AwOG4kw63Q==",
     "location": {
-      "country": "The Netherlands",
-      "region": "Drenthe",
-      "city": "Meppel",
-      "isp": "Stark Industries Solutions LTD",
-      "lat": 52.6958,
-      "lon": 6.1956
+      "country": "Finland",
+      "region": "Uusimaa",
+      "city": "Helsinki",
+      "isp": "Hetzner Online GmbH",
+      "lat": 60.1797,
+      "lon": 24.9344
     }
   },
   {
@@ -975,107 +949,107 @@
     }
   },
   {
-    "server": "85.206.161.251",
+    "server": "135.181.17.96",
     "port": "155",
-    "secret": "5mB7kIicxgcZ0hcMsoUZYgZQUgYBou-7tki_CVuDv4lg",
+    "secret": "3fQ1mpsyX_HR5QhN8OD3U3s",
     "location": {
-      "country": "Lithuania",
-      "region": "Siauliai",
-      "city": "Šiauliai",
-      "isp": "Informacines sistemos ir technologijos, UAB",
-      "lat": 55.9318,
-      "lon": 23.3289
+      "country": "Finland",
+      "region": "Uusimaa",
+      "city": "Helsinki",
+      "isp": "Hetzner Online GmbH",
+      "lat": 60.1797,
+      "lon": 24.9344
     }
   },
   {
-    "server": "195.26.86.85",
+    "server": "135.181.16.224",
     "port": "155",
-    "secret": "DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29t",
+    "secret": "FgMBAgABAAH8AwOG4kw63Q==",
     "location": {
-      "country": "The Netherlands",
-      "region": "North Holland",
-      "city": "Amsterdam",
-      "isp": "SOLLUTIUM EU Sp z.o.o.",
-      "lat": 52.3676,
-      "lon": 4.90414
+      "country": "Finland",
+      "region": "Uusimaa",
+      "city": "Helsinki",
+      "isp": "Hetzner Online GmbH",
+      "lat": 60.1797,
+      "lon": 24.9344
     }
   },
   {
-    "server": "asd.mihman6.ir",
+    "server": "65.21.131.91",
     "port": "155",
-    "secret": "5mB7kIicxgcZ0hcMsoUZYgZQUgYBou-7tki_CVuDv4lg",
+    "secret": "FgMBAgABAAH8AwOG4kw63Q==",
     "location": {
-      "country": "Lithuania",
-      "region": "Siauliai",
-      "city": "Šiauliai",
-      "isp": "Informacines sistemos ir technologijos, UAB",
-      "lat": 55.9318,
-      "lon": 23.3289
+      "country": "Finland",
+      "region": "Uusimaa",
+      "city": "Helsinki",
+      "isp": "Hetzner Online GmbH",
+      "lat": 60.1797,
+      "lon": 24.9344
     }
   },
   {
-    "server": "185.236.234.14",
+    "server": "135.181.16.161",
     "port": "155",
-    "secret": "een9ZIOVcuxEjkyt7TiWmgtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "location": {
-      "country": "The Netherlands",
-      "region": "Drenthe",
-      "city": "Meppel",
-      "isp": "Stark Industries Solutions LTD",
-      "lat": 52.6958,
-      "lon": 6.1956
+      "country": "Finland",
+      "region": "Uusimaa",
+      "city": "Helsinki",
+      "isp": "Hetzner Online GmbH",
+      "lat": 60.1797,
+      "lon": 24.9344
     }
   },
   {
-    "server": "195.26.86.84",
+    "server": "135.181.16.171",
     "port": "155",
-    "secret": "DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29t",
+    "secret": "FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
     "location": {
-      "country": "The Netherlands",
-      "region": "North Holland",
-      "city": "Amsterdam",
-      "isp": "SOLLUTIUM EU Sp z.o.o.",
-      "lat": 52.3676,
-      "lon": 4.90414
+      "country": "Finland",
+      "region": "Uusimaa",
+      "city": "Helsinki",
+      "isp": "Hetzner Online GmbH",
+      "lat": 60.1797,
+      "lon": 24.9344
     }
   },
   {
-    "server": "91.202.4.59",
+    "server": "5.9.81.184",
     "port": "155",
-    "secret": "DDBighLLvXrFGRMCBVJdFQAA",
+    "secret": "FgMBAgABAAH8AwOG4kw63Q==",
     "location": {
-      "country": "Poland",
-      "region": "Mazovia",
-      "city": "Warsaw",
-      "isp": "SOLLUTIUM EU Sp z.o.o",
-      "lat": 52.2297,
-      "lon": 21.0122
+      "country": "Germany",
+      "region": "Saxony",
+      "city": "Falkenstein",
+      "isp": "Hetzner Online GmbH",
+      "lat": 50.4777,
+      "lon": 12.3649
     }
   },
   {
-    "server": "85.206.161.251",
+    "server": "65.108.227.123",
     "port": "155",
-    "secret": "5mB7kIicxgcZ0hcMsoUZYgZQUgYBou-7tki_CVuDv4lg",
+    "secret": "FgMBAgABAAH8AwOG4kw63Q==",
     "location": {
-      "country": "Lithuania",
-      "region": "Siauliai",
-      "city": "Šiauliai",
-      "isp": "Informacines sistemos ir technologijos, UAB",
-      "lat": 55.9318,
-      "lon": 23.3289
+      "country": "Finland",
+      "region": "Uusimaa",
+      "city": "Helsinki",
+      "isp": "Hetzner Online GmbH",
+      "lat": 60.1797,
+      "lon": 24.9344
     }
   },
   {
-    "server": "85.206.161.250",
+    "server": "65.21.95.144",
     "port": "155",
-    "secret": "5mB7kIicxgcZ0hcMsoUZYgZQUgYBou-7tki_CVuDv4lg",
+    "secret": "3fQ1mpsyX_HR5QhN8OD3U3s",
     "location": {
-      "country": "Lithuania",
-      "region": "Siauliai",
-      "city": "Šiauliai",
-      "isp": "Informacines sistemos ir technologijos, UAB",
-      "lat": 55.9318,
-      "lon": 23.3289
+      "country": "Finland",
+      "region": "Uusimaa",
+      "city": "Helsinki",
+      "isp": "Hetzner Online GmbH",
+      "lat": 60.1797,
+      "lon": 24.9344
     }
   },
   {
@@ -1131,16 +1105,16 @@
     }
   },
   {
-    "server": "103.161.35.23",
+    "server": "95.216.249.222",
     "port": "155",
-    "secret": "DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "location": {
-      "country": "The Netherlands",
-      "region": "North Holland",
-      "city": "Amsterdam",
-      "isp": "GSJZ(CHINA)TECHNOLOGY CO",
-      "lat": 52.3676,
-      "lon": 4.90414
+      "country": "Finland",
+      "region": "Uusimaa",
+      "city": "Helsinki",
+      "isp": "Hetzner Online GmbH",
+      "lat": 60.1797,
+      "lon": 24.9344
     }
   },
   {

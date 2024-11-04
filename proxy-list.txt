@@ -34,6 +34,7 @@ https://t.me/proxy?server=77.232.43.105&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABj
 https://t.me/proxy?server=185.173.38.49&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABjb2RleC5pcg
 https://t.me/proxy?server=77.232.39.203&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABjb2RleC5pcg
 https://t.me/proxy?server=77.232.40.183&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABjb2RleC5pcg
+https://t.me/proxy?server=irdigital-a.ir&port=245&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29t
 https://t.me/proxy?server=185.173.36.99&port=44443&secret=eeRighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=77.232.36.63&port=44443&secret=eeRighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=185.173.38.132&port=44443&secret=eeRighJJvXrFGRMCIMJdCQ
@@ -60,6 +61,10 @@ https://t.me/proxy?server=77.232.40.86&port=3895&secret=7gAAAAAAAAAAAAAAAAAAAABj
 https://t.me/proxy?server=91.142.79.92&port=3895&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
 https://t.me/proxy?server=77.232.36.136&port=3895&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
 https://t.me/proxy?server=77.232.43.166&port=3895&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
+https://t.me/proxy?server=65.109.86.124&port=155&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=82.153.35.91&port=343&secret=eeRighJJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=185.173.37.86&port=44443&secret=eeRighJJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=65.109.86.124&port=155&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=5.9.69.181&port=155&secret=7gAA8A8Pd1VV____9QBuLmktLS0tLS13ZWIuYXBwY2VudGVyLm1zaS0tLS0tLQ
 https://t.me/proxy?server=203.25.108.89&port=155&secret=7gAA8A8Pd1VV____9QBuLmlhLS0tLS0tLS0%3D
 https://t.me/proxy?server=213.239.201.226&port=155&secret=eeNEgYdJvXrFGRMCIMJdCQ
@@ -85,4 +90,4 @@ https://t.me/proxy?server=176.65.128.133&port=155&secret=DDBighLLvXrFGRMCBVJdFQR
 https://t.me/proxy?server=203.25.108.89&port=155&secret=7gAA8A8Pd1VV____9QBuLmlhLS0tLS0tLS0%3D
 https://t.me/proxy?server=95.216.249.222&port=155&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=65.109.86.124&port=155&secret=eeNEgYdJvXrFGRMCIMJdCQ
-Auto update proxy list on 2024-11-03T20:11:17.773Z
+Auto update proxy list on 2024-11-04T07:50:19.694Z

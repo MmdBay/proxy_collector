@@ -468,6 +468,19 @@
     }
   },
   {
+    "server": "irdigital-a.ir",
+    "port": "245",
+    "secret": "DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29t",
+    "location": {
+      "country": "Russia",
+      "region": "Moscow",
+      "city": "Moscow",
+      "isp": "Cloud assets LLC",
+      "lat": 55.7303,
+      "lon": 37.7707
+    }
+  },
+  {
     "server": "185.173.36.99",
     "port": "44443",
     "secret": "eeRighJJvXrFGRMCIMJdCQ",
@@ -803,6 +816,58 @@
       "isp": "Cloud assets LLC",
       "lat": 55.7386,
       "lon": 37.7447
+    }
+  },
+  {
+    "server": "65.109.86.124",
+    "port": "155",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "location": {
+      "country": "Finland",
+      "region": "Uusimaa",
+      "city": "Helsinki",
+      "isp": "Hetzner Online GmbH",
+      "lat": 60.1797,
+      "lon": 24.9344
+    }
+  },
+  {
+    "server": "82.153.35.91",
+    "port": "343",
+    "secret": "eeRighJJvXrFGRMCIMJdCQ",
+    "location": {
+      "country": "The Netherlands",
+      "region": "North Holland",
+      "city": "Amsterdam",
+      "isp": "PIO-Hosting GmbH",
+      "lat": 52.3676,
+      "lon": 4.90414
+    }
+  },
+  {
+    "server": "185.173.37.86",
+    "port": "44443",
+    "secret": "eeRighJJvXrFGRMCIMJdCQ",
+    "location": {
+      "country": "Russia",
+      "region": "Moscow",
+      "city": "Moscow",
+      "isp": "Cloud assets LLC",
+      "lat": 55.7386,
+      "lon": 37.7447
+    }
+  },
+  {
+    "server": "65.109.86.124",
+    "port": "155",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "location": {
+      "country": "Finland",
+      "region": "Uusimaa",
+      "city": "Helsinki",
+      "isp": "Hetzner Online GmbH",
+      "lat": 60.1797,
+      "lon": 24.9344
     }
   },
   {

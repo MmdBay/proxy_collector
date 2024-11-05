@@ -806,16 +806,16 @@
     }
   },
   {
-    "server": "65.109.86.124",
-    "port": "155",
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "server": "176.65.128.229",
+    "port": "85",
+    "secret": "7gAA8A8Pd__1VV______9QB2LmNwLS0%3D",
     "location": {
-      "country": "Finland",
-      "region": "Uusimaa",
-      "city": "Helsinki",
-      "isp": "Hetzner Online GmbH",
-      "lat": 60.1797,
-      "lon": 24.9344
+      "country": "The Netherlands",
+      "region": "North Holland",
+      "city": "Amsterdam",
+      "isp": "PIO-Hosting GmbH",
+      "lat": 52.3676,
+      "lon": 4.90414
     }
   },
   {

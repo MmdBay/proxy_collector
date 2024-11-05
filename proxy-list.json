@@ -806,16 +806,42 @@
     }
   },
   {
-    "server": "176.65.128.229",
-    "port": "85",
-    "secret": "7gAA8A8Pd__1VV______9QB2LmNwLS0%3D",
+    "server": "185.222.28.41",
+    "port": "23",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "location": {
-      "country": "The Netherlands",
-      "region": "North Holland",
-      "city": "Amsterdam",
+      "country": "Germany",
+      "region": "Baden-Wurttemberg",
+      "city": "Stuttgart",
       "isp": "PIO-Hosting GmbH",
-      "lat": 52.3676,
-      "lon": 4.90414
+      "lat": 48.7758,
+      "lon": 9.18293
+    }
+  },
+  {
+    "server": "138.201.31.157",
+    "port": "155",
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "location": {
+      "country": "Germany",
+      "region": "Saxony",
+      "city": "Falkenstein",
+      "isp": "Hetzner Online GmbH",
+      "lat": 50.4777,
+      "lon": 12.3649
+    }
+  },
+  {
+    "server": "95.142.45.78",
+    "port": "44443",
+    "secret": "79ea54d21249bd7ac519CQ",
+    "location": {
+      "country": "Russia",
+      "region": "Moscow",
+      "city": "Moscow",
+      "isp": "Hosting technology LTD",
+      "lat": 55.7483,
+      "lon": 37.6171
     }
   },
   {
@@ -829,32 +855,6 @@
       "isp": "PIO-Hosting GmbH",
       "lat": 52.3676,
       "lon": 4.90414
-    }
-  },
-  {
-    "server": "185.173.37.86",
-    "port": "44443",
-    "secret": "eeRighJJvXrFGRMCIMJdCQ",
-    "location": {
-      "country": "Russia",
-      "region": "Moscow",
-      "city": "Moscow",
-      "isp": "Cloud assets LLC",
-      "lat": 55.7386,
-      "lon": 37.7447
-    }
-  },
-  {
-    "server": "65.109.86.124",
-    "port": "155",
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "location": {
-      "country": "Finland",
-      "region": "Uusimaa",
-      "city": "Helsinki",
-      "isp": "Hetzner Online GmbH",
-      "lat": 60.1797,
-      "lon": 24.9344
     }
   },
   {
